@@ -5,7 +5,7 @@ This project sets up a small-scale enterprise-style network using Cisco switches
 The goal is to practice CCNA-level networking skills while building a documented lab environment.
 
 ## Network Topology
-![Lab Topology](Topology.png)
+![Lab Topology](topology.png)
 - **Router** → Internet Gateway  
 - **Switch (Cisco Catalyst 2960G-8)** → VLAN segmentation  
 - **Proxmox PC** → Server/VM host  
