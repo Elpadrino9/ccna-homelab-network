@@ -11,8 +11,6 @@ The goal is to practice CCNA-level networking skills while building a documented
 - **Proxmox PC** → Server/VM host  
 - **Windows PC** → Client machine  
 
-(Diagram will go here once created)
-
 ## Configuration Steps
 - Erase old configs on switch  
 - Set hostname  
